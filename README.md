@@ -1,1 +1,1 @@
-# dash
+This repo contains the exercises for an intro course on Dash.
